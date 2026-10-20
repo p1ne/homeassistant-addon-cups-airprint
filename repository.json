@@ -1,5 +1,5 @@
 {
-  "name": "Home Assistant CUPS + Airprint Add-On repository",
-  "url": "https://github.com/zajac-grzegorz/homeassistant-addon-cups-airprint",
-  "maintainer": "Grzegorz Zajac"
+  "name": "CUPS + AirPrint Add-On (fork without avahi reflector)",
+  "url": "https://github.com/p1ne/homeassistant-addon-cups-airprint",
+  "maintainer": "p1ne (fork of Grzegorz Zajac's add-on)"
 }

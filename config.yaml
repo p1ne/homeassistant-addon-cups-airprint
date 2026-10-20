@@ -1,7 +1,7 @@
-name: CUPS
-version: "1.7"
+name: CUPS (no reflector)
+version: "1.7-no-reflector"
 slug: cupsik
-description: A CUPS print server with working AirPrint
+description: CUPS print server with AirPrint (avahi reflector disabled)
 arch:
   - amd64
   - aarch64

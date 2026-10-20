@@ -1,3 +1,9 @@
+## v1.7-no-reflector
+
+- Disable avahi reflector (enable-reflector=no): it flooded the log with
+  "No slot available for legacy unicast reflection" and is not needed
+  with host networking on a single interface
+
 ## v1.7
 
 - Fix the issue with "ulimit" size and permissions
